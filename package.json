@@ -1,0 +1,22 @@
+{
+  "name": "web-sockets-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aivanvilleags/web-sockets-pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aivanvilleags/web-sockets-pong/issues"
+  },
+  "homepage": "https://github.com/aivanvilleags/web-sockets-pong#readme",
+  "dependencies": {
+    "socket.io": "^4.5.0"
+  }
+}
